@@ -1,0 +1,1 @@
+Hi, I am sharing with you the #Day1Project of the Udemy's Complete Python Pro Bootcamp for 2023. This Bootcamp is made of 100 Days and I will share here all of the 100 projects. Thank you for your interest! :)
